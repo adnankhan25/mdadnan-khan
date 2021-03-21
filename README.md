@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdadnan-khan
-- 👀 I’m interested in Java development (Spring boot, Android, IoT, etc.)
-- 🌱 I’m currently learning Spring boot
-- 💞️ I’m looking to collaborate on java based projects
+- 👀 I’m interested in Javascript development (Web, Machine Learning, Mobile etc.)
+- 🌱 I’m currently learning MERN stack
+- 💞️ I’m looking to collaborate on javascript based projects
 - 📫 How to reach me adnan1990877@gmail.com
 
 <!---
