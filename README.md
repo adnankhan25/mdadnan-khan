@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdadnan-khan
 - 👀 I’m interested in javascript development (Web, IoT, Mobile etc.).
 - 🌱 I’m currently learning nodejs.
-- 💞️ I’m looking to collaborate on java based projects
+- 💞️ I’m looking to collaborate on javascript based projects
 - 📫 How to reach me adnan1990877@gmail.com
 
 <!---
